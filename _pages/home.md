@@ -23,7 +23,7 @@ We are a synthetic and systems biology research group at the [University of Illi
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/01.jpg" alt="Slide 1" /> <p> Meet our lab members or read about our research. </p>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/R1R2A9891-t.jpg" alt="Slide 1" /> <p> Meet our lab members or read about our research. </p>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/03.jpg" alt="Slide 2" /> <p> We are working with several different bacterial species on topics ranging from virulence to biofuels. </p>
